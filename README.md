@@ -1,1 +1,2 @@
 # Elevate_labs_task-8
+"We need to create an easy-to-understand sales dashboard using Power BI or Tableau with a dataset like Superstore Sales.Here the dashboard shows sales trends over time, breakdowns by region and category, and include interactive filters. Using charts like line, bar, and donut to visualize the data clearly, and highlight key performers with colors. Finally, write a few quick insights that explain what the data reveals about sales performance."
